@@ -1,7 +1,12 @@
-glossary-content
+Glossary content
 ================
 
 Description of terms and word about Arduino and Electronics
+
+## Asciidoc formatting Guide
+Feel free to add contribution, please use the standard AsciiDoc formatting guide.
+http://asciidoc.org/userguide.html#_text_formatting
+
 
 Submitting a pull request
 -------------------------
