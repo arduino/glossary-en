@@ -1,0 +1,324 @@
+---
+title: "Example"
+categories: ["E"]
+---
+
+// ARDUINO PYGMENTS HIGHLIGHT ATTRIBUTE   ►►►►► Include in your file if you use embedded code ◄◄◄◄◄
+:source-highlighter: pygments
+:pygments-style: arduino
+
+// PAGE TITLE   ►►►►► THIS IS MANDATORY ◄◄◄◄◄
+// This title will show up in the Index of all Reference terms
+= Example
+  
+The Example is one of the most interesting application published in the past XIX Century.
+// Next line is needed to display the full description in a separate page ►►►►► THIS IS USEFUL IF THE DESCRIPTION IS MORE THEN ONE LINE ◄◄◄◄◄
+<!--more-->
+It consists of almost 10.454.555 lines of code that does absolutely nothing.
+the Atomizer was awarded of the IGNobel price for 2 years, and many other big prizes.
+MoMa asked to the original creator to show it in the famous museum but he refused .
+Now the Atomizer lives in a Ubuntu Mint distro's trashcan that lays in an unused bookshelf in Hum (Italian: Colmo; German: Cholm), a town in the central part of Istria, northwest Croatia, 7 km from Roč. The elevation is 349 m. It has a population of seventeen (17) as per the 2001 census,but is officially a town.
+courtesy of  https://en.wikipedia.org/wiki/Hum,_Croatia[Wikipedia] (use Asciidoc syntax here)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// FROM NOW ON THERE IS A FULL HUGE EXAMPLE OF ASCIIDOC USAGE, AT THE END OF THE SECTION THERE IS A ASCIIDOC REFERENCE//
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// OVERVIEW SECTION STARTS
+[#overview]
+--
+
+[float]
+=== This is just to show you how to use ascidoc
+// Describe what this Reference term does, and what it is used for	►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
+Writes an analog value (http://arduino.cc/en/Tutorial/PWM[PWM wave]) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to `analogWrite()`, the pin will generate a steady square wave of the specified duty cycle until the next call to `analogWrite()` (or a call to `digitalRead()` or `digitalWrite()` on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz.
+[%hardbreaks]
+
+image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="", title="A beautiful Arduino UNO"]
+[%hardbreaks]
+
+
+[float]
+=== Syntax
+// Enter Reference term syntax, please specify all available parameters  ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
+`analogWrite(pin, value)`
+
+
+[float]
+=== Parameters
+// List all available parameters, please describe them one by one adding the data type (e.g int, boolean, char, String, float, long, double...)  ►►►►► THIS SECTION IS MANDATORY FOR FUNCTIONS ◄◄◄◄◄
+`pin`: the number of the pin to write to. Allowed data types: int. +
+`value`: the duty cycle between 0 (always off) and 255 (always on). Allowed data types: int.
+
+
+[float]
+=== Returns
+// Enter what the function returns (e.g. HIGH or LOW), if there is no return please write: _Nothing_   ►►►►► THIS SECTION IS MANDATORY FOR FUNCTIONS ◄◄◄◄◄
+Nothing
+
+--
+// OVERVIEW SECTION ENDS
+
+
+
+
+// HOW TO USE SECTION STARTS
+[#howtouse]
+--
+
+[float]
+=== Example Code
+// Describe what the example code is all about and add relevant code   ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
+Sets the output to the LED proportional to the value read from the potentiometer.
+
+
+[source,arduino]
+// Add relevant code that exemplify the use of the Reference term,
+// Please note that sometimes when copy-pasting code, a few spaces can be added at the beginnng of each line of code.
+// If that happens, please remove the extra spaces. Thanks!
+----
+int ledPin = 9;      // LED connected to digital pin 9
+int analogPin = 3;   // potentiometer connected to analog pin 3
+int val = 0;         // variable to store the read value
+
+void setup()
+{
+  pinMode(ledPin, OUTPUT);   // sets the pin as output
+}
+
+void loop()
+{
+  val = analogRead(analogPin);   // read the input pin
+  analogWrite(ledPin, val / 4);  // analogRead values go from 0 to 1023, analogWrite values from 0 to 255
+}
+----
+[%hardbreaks]
+
+
+[float]
+=== Notes and Warnings
+// Add useful notes, tips, caveat, known issues, and warnings about this Reference term
+This is because of interactions with the `millis()` and `delay()` functions.
+[%hardbreaks]
+image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="", title="A beautiful Arduino UNO"]
+[%hardbreaks]
+
+
+[float]
+=== See also
+// Link relevant content by category, such as other Reference terms (please add the tag #LANGUAGE#), 
+// definitions (please add the tag #DEFINITION#), and examples of Projects and Tutorials
+// (please add the tag #EXAMPLE#)  ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
+
+
+[role="language"]
+// Whenever you want to link to another Reference term, or more in general to a relative link,
+// use the syntax shown below. Please note that the file format is subsituted by  attribute.
+// Please note that you always need to replace spaces that you might find in folder/file names with %20
+* #LANGUAGE# link:../AsciiDoc_Template-Parent_Of_Entities[Parent Of Entities]
+* #LANGUAGE# link:../../AsciiDoc_Dictionary/AsciiDoc_Template-Dictionary[AsciiDoc Template Dictionary]
+
+[role="definition"]
+// Please note that all external links need to be opened in a new window/tab by adding ^ right before the last square brackets
+* #DEFINITION# http://arduino.cc/en/Tutorial/PWM[PWM^]
+
+[role="example"]
+// Please note that all external links need to be opened in a new window/tab by adding ^ right before the last square brackets
+* #EXAMPLE# http://arduino.cc/en/Tutorial/Blink[Blink^]
+
+--
+// HOW TO USE SECTION ENDS
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// THIS IS A ASCIIDOC REFERENCE//
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+// This is a documentation file for authors and editors of the Arduino Manutius content platform.
+// Below you can find a list of all the possible page elements with the corresponding
+// AsciiDoc syntax 
+
+
+// GENERAL GUIDELINES
+// The [space]+ sends text to a new line, aka it generates a <br> in the HTML output, e.g.:
+// This is some text. +
+// This is some other text in a new line
+
+// The [%hardbreaks] generates a new <p> paragraph, e.g.:
+// This is a <p> paragraph
+// [%hardbreaks]
+// This is another <p> paragraph
+
+// If you need to add a blank line between sections of the page you can use:
+// {empty} +
+
+// Using [%hardbreaks] at the end of a chunk is always a good practice.
+// [%hardbreaks] close the HTML tags, making the HTML output clean.
+
+// This ''' is a line divider
+
+
+// PAGE TITLE
+= Page Title [h1]
+
+// SECTION DIV WITH ID STARTS
+[#name_of_id]
+--
+
+// Add your content here.
+
+// In case your output is an HTML file, this tag will create a wrapper div with the id specified, e.g.:
+// <div id="name_of_id" class="openblock"></div>
+
+--
+// SECTION DIV WITH ID ENDS
+
+
+// OTHER TITLES
+[float]
+== Section Title [h2]
+
+[float]
+=== Paragraph Title [h3]
+
+[float]
+==== Sub-paragraph Title [h4]
+
+
+'''
+
+// TEXT STYLES
+This is normal <p> text +
+*This is bold <strong> text* +
+_This is italic <em> text_ +
+*_This is bold+italic <strong><em> text_* +
+[small]#This is small <span class="small"> text# +
+#This is highlighted <mark> text# +
+'`This is single quoted text`' +
+"`This is double quoted text`"
+[%hardbreaks]
+
+'''
+
+// LINKS
+// Please note that all external links need to be opened in a new window/tab by adding ^ right before the last square brackets
+http://arduino.cc[This is an external <a href> link^] in a new tab +
+link:../index.html[This is a relative <a href> link] +
+mailto:webmaster@arduino.cc[This is an e-mail link]
+[%hardbreaks]
+
+'''
+
+// LISTS
+* This
+* is
+** an
+*** unordered
+* list
+
+[%hardbreaks]
+
+. This
+. is
+.. a
+.. n
+... orde
+... red
+. list
+
+'''
+
+// CODE
+This is `code` in a sentence +
+`This is a whole line of code` +
+
+// HINT: Please note that sometimes when copy-pasting code a few spaces can be added at the beginnng of each line of code. 
+// If that happens, please remove the extra spaces. Thanks!
+
+This can be a lot more code 
+[source,arduino]
+----
+for (int 1; i<=99; i++) {
+	Serial.println('We want more code!');
+}
+----
+[%hardbreaks]
+
+'''
+
+// TABLES
+|===
+|Name of Column 1 |Name of Column 2 |Name of Column 3 
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+|Cell in column 3, row 3
+|===
+[%hardbreaks]
+
+'''
+
+// IMAGES
+
+// If you need to add an image to the Asciidoc please create a folder called 'attachments' in the same directory as the Asciidoc file, 
+// place the image there and reference it as shown below. Images can be in SVG and PNG format, max size 200KB.
+
+// To include an image on its own line (i.e., a block image), use the image:: prefix in front of the file name and square brackets after it []
+// Make sure you add [%hardbreaks] between any text and the image
+
+This is a block image with a URL
+[%hardbreaks]
+image::http://store.arduino.cc/bmz_cache/b/babe9d3f8563ea2f170dd55539f06310.image.538x354.jpg[]
+
+
+This is an image saved in the attachments folder with a caption
+[%hardbreaks]
+image::attachments/ArduinoUno_R3_Front_450px.jpg[caption="", title="A beautiful Arduino UNO"]
+
+
+'''
+
+// EMBED
+
+This is a pretty embed of code from Gist
+++++
+<script src="http://gist.github.com/mojavelinux/5333524.js">
+</script>
+++++
+
+{empty} +
+
+And this is another of a video from YouTube
+++++
+<iframe width="100%" height="315" src="http://www.youtube-nocookie.com/embed/UoBUXOOdLXY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+++++
+// HINT: Please remember to set the iframe width to 100% to have the video responsive on all our platforms
+
+{empty} +
+
+And here some slides from Sideshare, yay!
+++++
+<iframe src="http://www.slideshare.net/slideshow/embed_code/4430242" width="100%" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/damellis/introduction-to-arduino-4430242" title="Introduction to Arduino" target="_blank">Introduction to Arduino</a> </strong> from <strong><a href="//www.slideshare.net/damellis" target="_blank">David Mellis</a></strong> </div>
+++++
+// HINT: Please remember to set the iframe width to 100% to have the slide show responsive on all our platforms
+
+{empty} +
+
+And this is some audio from SoundCloud
+++++
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/55323777&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+++++
+// HINT: Please remember to set the iframe width to 100% to have the sound UI responsive on all our platforms
