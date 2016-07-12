@@ -1,5 +1,3 @@
-
-
 ---
 title: "One Line"
 categories: ["O"]
