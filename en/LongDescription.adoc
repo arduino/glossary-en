@@ -1,0 +1,24 @@
+---
+title: "LongDescription"
+categories: ["L"]
+---
+
+= Long Description 
+
+This is the one line definition that will show up in the landing page.<!--more-->
+All the extra text is here, it will be displayed in a new page.
+Example text: It consists of almost 10.454.555 lines of code that does absolutely nothing.
+the Atomizer was awarded of the IGNobel price for 2 years, and many other big prizes.
+MoMa asked to the original creator to show it in the famous museum but he refused.
+Now the Atomizer lives in a Ubuntu Mint distro's trashcan that lays in an unused bookshelf in Hum (Italian: Colmo; German: Cholm), a town in the central part of Istria, northwest Croatia, 7 km from Roč. The elevation is 349 m. It has a population of seventeen (17) as per the 2001 census,but is officially a town.
+courtesy of https://en.wikipedia.org/wiki/Hum,_Croatia[Wikipedia] (use Asciidoc syntax here)
+
+=== If you need a secondary title in the page
+
+Some more text that explains in detail this term. Some more text that explains in detail this term. 
+Some more text that explains in detail this term. Some more text that explains in detail this term.
+
+image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="", title="A beautiful Arduino UNO"]
+
+Some more text that explains in detail this term. Some more text that explains in detail this term. 
+Some more text that explains in detail this term. Some more text that explains in detail this term.

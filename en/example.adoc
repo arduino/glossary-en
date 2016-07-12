@@ -3,7 +3,7 @@ title: "Example"
 categories: ["E"]
 ---
 
-// ARDUINO PYGMENTS HIGHLIGHT ATTRIBUTE   ►►►►► Include in your file if you use embedded code ◄◄◄◄◄
+// ARDUINO PYGMENTS HIGHLIGHT ATTRIBUTE   ►►►►► Include in your file only if you use embedded code ◄◄◄◄◄
 :source-highlighter: pygments
 :pygments-style: arduino
 
@@ -21,9 +21,9 @@ Now the Atomizer lives in a Ubuntu Mint distro's trashcan that lays in an unused
 courtesy of  https://en.wikipedia.org/wiki/Hum,_Croatia[Wikipedia] (use Asciidoc syntax here)
 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// FROM NOW ON THERE IS A FULL HUGE EXAMPLE OF ASCIIDOC USAGE, AT THE END OF THE SECTION THERE IS A ASCIIDOC REFERENCE//
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// FROM NOW ON THERE IS A FULL HUGE EXAMPLE OF ASCIIDOC USAGE, AT THE END OF THE SECTION THERE IS A ASCIIDOC REFERENCE //
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // OVERVIEW SECTION STARTS
 [#overview]
@@ -31,7 +31,7 @@ courtesy of  https://en.wikipedia.org/wiki/Hum,_Croatia[Wikipedia] (use Asciidoc
 
 [float]
 === This is just to show you how to use ascidoc
-// Describe what this Reference term does, and what it is used for	►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
+// Describe what this Reference term does, and what it is used for	
 Writes an analog value (http://arduino.cc/en/Tutorial/PWM[PWM wave]) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to `analogWrite()`, the pin will generate a steady square wave of the specified duty cycle until the next call to `analogWrite()` (or a call to `digitalRead()` or `digitalWrite()` on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz.
 [%hardbreaks]
 
@@ -41,20 +41,20 @@ image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="
 
 [float]
 === Syntax
-// Enter Reference term syntax, please specify all available parameters  ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
+// Enter Reference term syntax, please specify all available parameters  
 `analogWrite(pin, value)`
 
 
 [float]
 === Parameters
-// List all available parameters, please describe them one by one adding the data type (e.g int, boolean, char, String, float, long, double...)  ►►►►► THIS SECTION IS MANDATORY FOR FUNCTIONS ◄◄◄◄◄
+// List all available parameters, please describe them one by one adding the data type (e.g int, boolean, char, String, float, long, double...)  
 `pin`: the number of the pin to write to. Allowed data types: int. +
 `value`: the duty cycle between 0 (always off) and 255 (always on). Allowed data types: int.
 
 
 [float]
 === Returns
-// Enter what the function returns (e.g. HIGH or LOW), if there is no return please write: _Nothing_   ►►►►► THIS SECTION IS MANDATORY FOR FUNCTIONS ◄◄◄◄◄
+// Enter what the function returns (e.g. HIGH or LOW), if there is no return please write: _Nothing_   
 Nothing
 
 --
@@ -69,7 +69,7 @@ Nothing
 
 [float]
 === Example Code
-// Describe what the example code is all about and add relevant code   ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
+// Describe what the example code is all about and add relevant code  
 Sets the output to the LED proportional to the value read from the potentiometer.
 
 
@@ -134,7 +134,7 @@ image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// THIS IS A ASCIIDOC REFERENCE//
+// THIS IS AN ASCIIDOC REFERENCE//
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
