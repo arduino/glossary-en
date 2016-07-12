@@ -1,0 +1,8 @@
+---
+title: "One Line"
+categories: ["O"]
+---
+
+= One Line
+
+Just fill this line with the text you will find in the Starter Kit page.
