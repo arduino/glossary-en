@@ -1,0 +1,8 @@
+---
+title: "Accelerometer"
+categories: ["A"]
+---
+
+= Accelerometer
+
+A sensor that measures acceleration. Sometimes, they are used to detect orientation, or tilt.
