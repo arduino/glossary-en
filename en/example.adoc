@@ -12,6 +12,7 @@ categories: ["E"]
 = Example
   
 The Example contains the instruction extended for asciidoc
+
 // Next line is needed to display the full description in a separate page ►►►►► THIS IS USEFUL IF THE DESCRIPTION IS MORE THEN ONE LINE ◄◄◄◄◄
 <!--more-->
 
