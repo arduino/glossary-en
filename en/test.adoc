@@ -1,8 +1,0 @@
----
-title: "Test formatting"
-categories: ["T"]
----
-
-= Test formatting
-
-Loren ipsum 
