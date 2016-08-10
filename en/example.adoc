@@ -22,6 +22,16 @@ The Example contains the instruction extended for asciidoc
 // FROM NOW ON THERE IS A FULL HUGE EXAMPLE OF ASCIIDOC USAGE, AT THE END OF THE SECTION THERE IS A ASCIIDOC REFERENCE //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+=== If you need a secondary title in the page
+
+Some more text that explains in detail this term. Some more text that explains in detail this term. 
+Some more text that explains in detail this term. Some more text that explains in detail this term.
+
+image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="", title="A beautiful Arduino UNO"]
+
+Some more text that explains in detail this term. Some more text that explains in detail this term. 
+Some more text that explains in detail this term. Some more text that explains in detail this term.
+
 // OVERVIEW SECTION STARTS
 [#overview]
 --
