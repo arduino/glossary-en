@@ -1,0 +1,8 @@
+---
+title: "Amperage (Amps or Amperes) "
+categories: ["A"]
+---
+
+= Amperage (Amps or Amperes) 
+
+The amount of electrical charge flowing past a specific point in your circuit. Describes the current as it flows through a conductor, like a wire.

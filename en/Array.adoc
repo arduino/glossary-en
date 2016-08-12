@@ -1,0 +1,8 @@
+---
+title: "Array"
+categories: ["A"]
+---
+
+= Array
+
+In programming, this is a group of variables that are identified by one name, and accessed by an index number.

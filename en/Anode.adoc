@@ -1,0 +1,8 @@
+---
+title: "Anode"
+categories: ["A"]
+---
+
+= Anode
+
+The positive end of a diode (remember that an LED is a type of diode).
