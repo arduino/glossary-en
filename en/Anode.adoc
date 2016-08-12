@@ -1,8 +1,0 @@
----
-title: "Anode"
-categories: ["A"]
----
-
-= Anode
-
-The positive end of a capacitor or diode 
