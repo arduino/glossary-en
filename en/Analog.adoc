@@ -4,5 +4,6 @@ categories: ["A"]
 ---
 
 = Analog
+
 Something that can continuously vary over time.
  
