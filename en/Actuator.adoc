@@ -1,0 +1,8 @@
+---
+title: "Actuator"
+categories: ["A"]
+---
+
+= Actuator
+
+A type of component that changes an energy into motion. Motors are a type of electrical actuator.
