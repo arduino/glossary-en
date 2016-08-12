@@ -4,6 +4,7 @@ categories: ["A"]
 ---
 
 = Analog-to-Digital Converter (ADC)
- A circuit that converts an analog voltage into a digital number representing that voltage. 
+
+A circuit that converts an analog voltage into a digital number representing that voltage. 
 <!--more-->
- This circuit is built-in to the microcontroller, and is connected to the analog input pins of the Arduino board..
+This circuit is built-in to the microcontroller, and is connected to the analog input pins of the Arduino board..
