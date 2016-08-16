@@ -1,4 +1,4 @@
-﻿---
+---
 title: "I2C"
 categories: ["I"]
 ---
