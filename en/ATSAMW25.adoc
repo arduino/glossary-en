@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ATSAMW25"
 categories: ["A"]
 ---
