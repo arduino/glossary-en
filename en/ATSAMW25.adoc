@@ -1,0 +1,9 @@
+﻿---
+title: "ATSAMW25"
+categories: ["A"]
+---
+
+= ATSAMW25
+
+The SAM W25 module is based on Atmel’s industry-leading WINC1500 Wi-Fi core combined with Atmel’s latest ARM® Cortex® -M0+ based microcontroller technology. It allows to build low power solutions for Internet of Things.
+ 

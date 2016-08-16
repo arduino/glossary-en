@@ -1,0 +1,9 @@
+﻿---
+title: "Li-Po Battery"
+categories: ["L"]
+---
+
+= Li-Po Battery
+
+One of the most recent technologies for rechargeable batteries. This Lithium - Polimer technology offers a very good ratio between capacity and weight, no memory effect and low self discharge rate. Li-Po batteries are charged at constant current.
+ 

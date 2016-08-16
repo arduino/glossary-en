@@ -1,0 +1,9 @@
+﻿---
+title: "Firmware"
+categories: ["F"]
+---
+
+= Firmware
+
+The Firmware is similar to Software, but it is stored on non volatile memory and can be executed in place - without being copied in RAM - by a microcontroller. It is used in embedded systems and it is made of machine code instructions. Firmware is usually updateable. 
+ 

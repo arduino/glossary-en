@@ -1,0 +1,9 @@
+﻿---
+title: "DMA"
+categories: ["D"]
+---
+
+= DMA
+
+Direct Memory Access is a technology that allows peripherals to access directly areas of the memory without CPU intervention. This increases the throughput of some transfers on interfaces like SPI or DAC. 
+ 
