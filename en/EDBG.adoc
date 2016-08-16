@@ -6,12 +6,15 @@ categories: ["E"]
 = EDBG
 
 The Atmel Embedded Debugger (EDBG) implements a composite USB device consisting of three interfaces:
+<--!more-->
 
 * Programming & debugging interface (HID)
-** CDC Virtual COM port
+* CDC Virtual COM port
 * Atmel Data Gateway Interface
 
 The programming and debugging interface is an implementation of the CMSIS-DAP interface defined by Keil®. CMSIS-DAP supports access to any ARM Coresight Debug Access Port. CMSIS-DAP supports a set of "vendor" commands, which are used by EDBG for accessing special functions not natively supported by CMSIS-DAP, as well as for debugging and programming Atmel AVR device families.
+
 The CDC Virtual COM port implementation provides a simple link between a COM port registered on the host PC and a RX-TX pin pair on the EDBG. This pair is connected to a UART pin pair on the board on which the EDBG is embedded.
+
 The DGI is a bidirectional interface for streaming data to and from the EDBG. It is a custom interface with input and output BULK endpoints.
  
