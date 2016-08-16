@@ -6,7 +6,7 @@ categories: ["E"]
 = EDBG
 
 The Atmel Embedded Debugger (EDBG) implements a composite USB device consisting of three interfaces:
-<--!more-->
+<!--more-->
 
 * Programming & debugging interface (HID)
 * CDC Virtual COM port
