@@ -5,5 +5,5 @@ categories: ["C"]
 
 = Cryptochip
 
-CryptoChips support modern cryptographic standards. They work with any MCU, are extremely cost-effective, require only a single GPIO, and use very little power. Advanced protocols like ECDSA sign-verify (asymmetric authentication) and ECDH (key agreement in encryption/decryption settings) are built-in which makes adding sophisticated security easy.
+CryptoChips take care of all the calculations required by the  modern cryptographic standards. They work with any MCU, are extremely cost-effective, require only a single GPIO, and use very little power. Advanced protocols like ECDSA sign-verify (asymmetric authentication) and ECDH (key agreement in encryption/decryption settings) are built-in which makes adding sophisticated security easy.
  
