@@ -5,5 +5,5 @@ categories: ["V"]
 
 = VCC
 
-This label marks the pin used to supply the positive voltage to a circuit, a device or a board. The other pin, for groud, is usually labelled VSS or GND.
+This label marks the pin used to supply the positive voltage to a circuit, a device or a board. The other pin, for ground, is usually labelled VSS or GND.
  
