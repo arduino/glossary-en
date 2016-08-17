@@ -1,8 +1,0 @@
----
-title: "Electricity"
-categories: ["E"]
----
-
-= Electricity
-
-A form of energy which we use to power machines and electrical devices.
