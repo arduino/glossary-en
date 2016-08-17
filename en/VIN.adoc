@@ -1,0 +1,8 @@
+---
+title: "VIN"
+categories: ["V"]
+---
+
+= VIN
+
+A label used to indicate the input pin for the voltage to the Arduino/Genuino board when it's using an external power source (as opposed to 5 volts from the USB connection or other regulated power source). You can supply voltage through this pin, or, if supplying voltage via the power jack, access it through this pin.
