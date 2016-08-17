@@ -1,8 +1,0 @@
----
-title: "Digital"
-categories: ["D"]
----
-
-= Digital
-
-A system that deals with discrete values.
