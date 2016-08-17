@@ -1,8 +1,0 @@
----
-title: "Int"
-categories: ["I"]
----
-
-= Int
-
-A datatype that holds a whole number between -32,768 and 32,767.
