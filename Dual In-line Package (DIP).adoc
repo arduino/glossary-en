@@ -1,0 +1,8 @@
+---
+title: "Dual In-line Package (DIP)"
+categories: ["D"]
+---
+
+= Dual In-line Package (DIP)
+
+A type of packaging for integrated circuits

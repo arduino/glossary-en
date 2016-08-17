@@ -1,0 +1,8 @@
+---
+title: "Datasheet"
+categories: ["D"]
+---
+
+= Datasheet
+
+A techinical document that describes the functionality of a component. Typical information in a datasheet includes the maximum voltage and current a component requires, as well as an explanation of the functionality of the pins.
