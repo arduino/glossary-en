@@ -1,8 +1,0 @@
----
-title: "Global Variable"
-categories: ["G"]
----
-
-= Global Variable
-
-A named variable that can be accessed anywhere inside your program. It is declared before the setup() function.
