@@ -5,4 +5,4 @@ categories: ["B"]
 
 = Baud
 
-Shorthand for ìbits per secondî, signifying the speed at which two devices are communicating.
+Shorthand for ‚Äúbits per second‚Äù, signifying the speed at which two devices are communicating.
