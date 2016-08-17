@@ -1,8 +1,0 @@
----
-title: "Instance"
-categories: ["I"]
----
-
-= Instance
-
-A copy of a software object.
