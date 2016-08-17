@@ -1,8 +1,0 @@
----
-title: "Gate"
-categories: ["G"]
----
-
-= Gate
-
-The pin of a Field Effect Transistor that allows to create a conducting channel between Drain and Source if correctly driven.
