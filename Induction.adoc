@@ -1,8 +1,0 @@
----
-title: "Induction"
-categories: ["I"]
----
-
-= Induction
-
-The production of an electromotive force across a conductor when it is exposed to a time varying magnetic field.
