@@ -5,4 +5,4 @@ categories: ["D"]
 
 = Debugging
 
-The process of going through a circuit or code, and finding errors (also referred as ìbugsî), until the expected behavior is achieved.
+The process of going through a circuit or code, and finding errors (also referred as ‚Äúbugs‚Äù), until the expected behavior is achieved. 
