@@ -1,0 +1,8 @@
+---
+title: "Conductor"
+categories: ["C"]
+---
+
+= Conductor
+
+A material that allows electricity to flow, like a copper wire.

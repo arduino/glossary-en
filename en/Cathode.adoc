@@ -1,0 +1,8 @@
+---
+title: "Cathode"
+categories: ["C"]
+---
+
+= Cathode
+
+The negative end of a diode.

@@ -1,0 +1,8 @@
+---
+title: "Capacitance"
+categories: ["C"]
+---
+
+= Capacitance
+
+The ability of a material to hold an electrical charge.

@@ -1,0 +1,8 @@
+---
+title: "Common cathode LED"
+categories: ["C"]
+---
+
+= Common cathode LED
+
+Types of LEDs that have multiple colors in one fixture, with one cathode and multiple anodes.

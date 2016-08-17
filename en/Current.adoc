@@ -1,0 +1,8 @@
+---
+title: "Current"
+categories: ["C"]
+---
+
+= Current
+
+The flow of electrical charge through a closed circuit. Measured in Amps.

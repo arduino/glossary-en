@@ -1,0 +1,8 @@
+---
+title: "Constant"
+categories: ["C"]
+---
+
+= Constant
+
+A named identifier that cannot change its value in a program.
