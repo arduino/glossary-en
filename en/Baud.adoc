@@ -1,0 +1,8 @@
+---
+title: "Baud"
+categories: ["B"]
+---
+
+= Baud
+
+Shorthand for “bits per second”, signifying the speed at which two devices are communicating.

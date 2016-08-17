@@ -1,0 +1,8 @@
+---
+title: "Boolean"
+categories: ["B"]
+---
+
+= Boolean
+
+A datatype that indicates something binary.

@@ -1,0 +1,8 @@
+---
+title: "Binary"
+categories: ["B"]
+---
+
+= Binary
+
+Only two states are possible, like true/false or off/on.

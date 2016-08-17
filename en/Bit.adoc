@@ -1,0 +1,8 @@
+---
+title: "Bit"
+categories: ["B"]
+---
+
+= Bit
+
+The smallest piece of information a digital device can manage.
