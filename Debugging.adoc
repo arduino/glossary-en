@@ -1,8 +1,0 @@
----
-title: "Debugging"
-categories: ["D"]
----
-
-= Debugging
-
-The process of going through a circuit or code, and finding errors (also referred as “bugs”), until the expected behavior is achieved.
