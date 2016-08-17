@@ -1,0 +1,8 @@
+---
+title: "Function"
+categories: ["F"]
+---
+
+= Function
+
+A block of code that executes a specific task.

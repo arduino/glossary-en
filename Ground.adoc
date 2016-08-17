@@ -1,0 +1,8 @@
+---
+title: "Ground"
+categories: ["G"]
+---
+
+= Ground
+
+The point of a circuit where there is 0 potential electrical energy. Without a ground, electricity will not have a place to flow in a circuit.
