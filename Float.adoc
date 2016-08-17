@@ -1,8 +1,0 @@
----
-title: "Float"
-categories: ["F"]
----
-
-= Float
-
-A datatype used to represent a fraction. This entails the use of decimal points for floating point numbers.
