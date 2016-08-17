@@ -1,0 +1,8 @@
+---
+title: "Drain"
+categories: ["D"]
+---
+
+= Drain
+
+The pin of a Field Effect Transistor connected to the higher (n channel) or lower (p channel) voltage of i.e load to be controlled.

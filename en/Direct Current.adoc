@@ -1,0 +1,8 @@
+---
+title: "Direct current"
+categories: ["D"]
+---
+
+= Direct current
+
+A type of current which always flows in the same direction.

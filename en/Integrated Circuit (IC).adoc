@@ -1,0 +1,8 @@
+---
+title: "Integrated Circuit (IC)"
+categories: ["I"]
+---
+
+= Integrated Circuit (IC)
+
+A complex circuit of nano or micro scale with a given package used for a specific purpose.

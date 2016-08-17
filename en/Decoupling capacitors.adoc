@@ -1,0 +1,8 @@
+---
+title: "Decoupling capacitors"
+categories: ["D"]
+---
+
+= Decoupling capacitors
+
+Capacitors that are used to regulate spikes and dips in voltage and current, often placed close to the circuit they are referred.
