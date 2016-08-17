@@ -1,0 +1,10 @@
+---
+title: "SoC"
+categories: ["S"]
+---
+
+= SoC
+
+System on Chip is an evolution of embedded systems, where in a single package and substrate are hosted all the parts necessary to create a fully functional computer. 
+<!---more--->
+The package contains a microprocessor, the various types of memory, interfaces for communication and peripheral management, converters and so on. With a SoC is possible to build a very cost effective computer that runs an operating system like Linux and connects to the usual set of I/O peripherals (mouse, keyboard, monitor... ).

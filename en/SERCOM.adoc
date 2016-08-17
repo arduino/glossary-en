@@ -1,0 +1,8 @@
+---
+title: "SERCOM"
+categories: ["S"]
+---
+
+= SERCOM
+
+This term is the combination of SERial and COMmunication. It is used in microcontrollers jargon to indicate a specific type of functional module inside the device. A SERCOM module can be programmed to become a USART, a SPI or an I2C serial port. Each microcontroller may have more tha one SERCOM.
