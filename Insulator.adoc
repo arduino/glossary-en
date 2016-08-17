@@ -1,8 +1,0 @@
----
-title: "Insulator"
-categories: ["I"]
----
-
-= Insulator
-
-A material that prevents electricity to flow.
