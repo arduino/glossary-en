@@ -1,0 +1,8 @@
+---
+title: "TTL"
+categories: ["T"]
+---
+
+= TTL
+
+A type of electronic logic circuitry that works with 5V/0V logic levels. Transistor-Transistor Logic was developed during the sixties of the last century and became a worldwide standard. Low power and low voltage applications are now replacing 5V TTL with new technologies.
