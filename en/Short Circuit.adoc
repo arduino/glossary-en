@@ -5,4 +5,4 @@ categories: ["S"]
 
 = Short circuit
 
-A short circuit between power and ground will make your circuit stop working and thus should be avoided. In some cases this might damage your power supply or parts of your circuit, and rare cases might start a fire.
+A short circuit between power and ground will make your circuit stop working and thus should be avoided. <!--more-->In some cases this might damage your power supply or parts of your circuit, and rare cases might start a fire.
