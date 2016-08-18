@@ -5,4 +5,4 @@ categories: ["R"]
 
 = RTC
 
-The Real Time Clock is a circuit that uses either a quartz crystal or a laser trimmed oscillator to keep the time inside a computer or in an embedded system. THe circuit has its own power source - usually a lithium battery - and has a very low power consumption. Once set, the RTC can be queried to get date and time throug serial interfaces like I2C.
+The Real Time Clock is a circuit that uses either a quartz crystal or a laser trimmed oscillator to keep the time inside a computer or in an embedded system. <!--more-->The circuit has its own power source - usually a lithium battery - and has a very low power consumption. Once set, the RTC can be queried to get date and time throug serial interfaces like I2C.
