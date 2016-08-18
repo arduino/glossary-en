@@ -5,4 +5,4 @@ categories: ["U"]
 
 = Unsigned
 
-A term used to describe a datatypes, indicating that they cannot be a negative number. It’s helpful to have an unsigned number if you only need to count in one direction. For instance, when keeping track of time with millis(), it’s advisable to use the unsigned long datatype.
+A term used to describe a datatypes, indicating that they cannot be a negative number. Itâ€™s helpful to have an unsigned number if you only need to count in one direction. For instance, when keeping track of time with millis(), itâ€™s advisable to use the unsigned long datatype.
