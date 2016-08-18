@@ -5,4 +5,4 @@ categories: ["A"]
 
 = Argument
 
-A type of data supplied to a function as an input. For example, for digitalRead() to know what pin to check, it takes an argument in the form of a pin number.
+A type of data supplied to a function as an input. <!--more-->For example, for digitalRead() to know what pin to check, it takes an argument in the form of a pin number.
