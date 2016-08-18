@@ -5,4 +5,4 @@ categories: ["P"]
 
 = Power supply
 
-A source of energy, usually a battery, transformer, or even the USB port of your computer. Comes in many varieties such as regulated or unregulated, AC or DC. Usually the voltage is specified, along with the maximum current the supply can deliver before failing.
+A source of energy, usually a battery, transformer, or even the USB port of your computer. <!--more-->Comes in many varieties such as regulated or unregulated, AC or DC. Usually the voltage is specified, along with the maximum current the supply can deliver before failing.
