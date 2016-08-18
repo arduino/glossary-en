@@ -5,4 +5,4 @@ categories: ["P"]
 
 = Polarized
 
-The leads of polarized components (e.g. LEDs or capacitors) have different functions, and thus must be connected the right way. Polarized components connected the wrong way might not work, might be damaged, or might damage other parts of your circuit. Non-polarized components (e.g. resistors) can be connected either way.
+The leads of polarized components (e.g. LEDs or capacitors) have different functions, and thus must be connected the right way. <!--more--> Polarized components connected the wrong way might not work, might be damaged, or might damage other parts of your circuit. Non-polarized components (e.g. resistors) can be connected either way.
