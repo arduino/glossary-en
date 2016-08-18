@@ -5,4 +5,4 @@ categories: ["N"]
 
 = NTP
 
-A time syncronization protocol, based on a client-server architecture, available on Internet on UDP port 123. It uses the UTC format and it is unrelated to time zones. When used it allows to syncronize clocks within 10 milliseconds of margin and around 200 microseconds of accuracy inside a LAN.
+A time syncronization protocol, based on a client-server architecture, available on Internet on UDP port 123. <!--more-->It uses the UTC format and it is unrelated to time zones. When used it allows to syncronize clocks within 10 milliseconds of margin and around 200 microseconds of accuracy inside a LAN.
