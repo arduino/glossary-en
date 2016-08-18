@@ -5,4 +5,4 @@ categories: ["S"]
 
 = SHA-256
 
-An algorythm developed to check the integrity of data. SHA-256 is Secure Hash Algorithm with 256 bit digest. It is part of the SHA-2 family of hashing algorithms. Cryptographic hash functions are mathematical operations run on digital data; by comparing the computed "hash" (the output from execution of the algorithm) to a known and expected hash value, a person can determine the data's integrity.
+An algorythm developed to check the integrity of data. SHA-256 is Secure Hash Algorithm with 256 bit digest. <!--more-->It is part of the SHA-2 family of hashing algorithms. Cryptographic hash functions are mathematical operations run on digital data; by comparing the computed "hash" (the output from execution of the algorithm) to a known and expected hash value, a person can determine the data's integrity.
