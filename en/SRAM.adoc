@@ -5,4 +5,4 @@ categories: ["S"]
 
 = SRAM
 
-A specific type of memory, Static RAM, that doen't require the refresh mechanism, typical of the more common DRAM - Dynamic RAM - used in PCs. SRAM keeps the stored data as long as the power supply is kept, offers good access time and low power consumption.
+A specific type of memory, Static RAM, that doen't require the refresh mechanism, typical of the more common DRAM - Dynamic RAM - used in PCs. <!--more-->SRAM keeps the stored data as long as the power supply is kept, offers good access time and low power consumption.
