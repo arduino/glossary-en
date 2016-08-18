@@ -5,4 +5,4 @@ categories: ["S"]
 
 = SAMD21
 
-A microcontroller of the Atmel's SAM D family. A rich set of peripherals, flexibility and ease-of-use combined with low power consumption make this microcontroller, based on Cortex-M0+, ideal for a wide range of home automation, consumer, metering and industrial applications.
+A microcontroller of the Atmel's SAM D family. <!--more-->A rich set of peripherals, flexibility and ease-of-use combined with low power consumption make this microcontroller, based on Cortex-M0+, ideal for a wide range of home automation, consumer, metering and industrial applications.
