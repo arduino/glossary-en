@@ -5,4 +5,4 @@ categories: ["C"]
 
 = Calibration
 
-The process of making adjustments to certain numbers or components to get the best results from a circuit or program. In Arduino projects, this is often used when sensors in the real world may give different values in different circumstances, for instance the amount of light on a photoresistor. Calibration can be automatic or manual. 
+The process of making adjustments to certain numbers or components to get the best results from a circuit or program. <!--more-->In Arduino projects, this is often used when sensors in the real world may give different values in different circumstances, for instance the amount of light on a photoresistor. Calibration can be automatic or manual. 
