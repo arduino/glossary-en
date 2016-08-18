@@ -5,5 +5,5 @@ categories: ["I"]
 
 = Index
 
-The number supplied to an array that indicates which element you’re referring to. Computers are zero-indexed, which means they start counting at 0 instead of 1. To access the third element in an array named tones, for example, you would write tones[2].
+The number supplied to an array that indicates which element you’re referring to. <!--more-->Computers are zero-indexed, which means they start counting at 0 instead of 1. To access the third element in an array named tones, for example, you would write tones[2].
 
