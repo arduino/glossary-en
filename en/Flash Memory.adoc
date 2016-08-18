@@ -5,5 +5,5 @@ categories: ["F"]
 
 = Flash Memory
 
-This type of memory is non volatile and it is an evolution of EEPROM. It is electrically erasable. Made with different technologies that offer different speeds and capacities (ML, SL, NAND, NOR), Flash Memory is used inside SD and microSD cards, inside mobile phones and also as program memory in microcontrollers.
+This type of memory is non volatile and it is an evolution of EEPROM. <!--more-->It is electrically erasable. Made with different technologies that offer different speeds and capacities (ML, SL, NAND, NOR), Flash Memory is used inside SD and microSD cards, inside mobile phones and also as program memory in microcontrollers.
  
