@@ -5,4 +5,4 @@ categories: ["T"]
 
 = Toolchain (IDE)
 
-A toolchain is a set of programming tools that is used to perform a complex set of operations. In the Arduino Software (IDE) the toolchain is hidden from the user, but it is used to compile and upload the user Sketch. It includes compiler, assembler, linker and Standard C & math libraries.
+A toolchain is a set of programming tools that is used to perform a complex set of operations. <!--more-->In the Arduino Software (IDE) the toolchain is hidden from the user, but it is used to compile and upload the user Sketch. It includes compiler, assembler, linker and Standard C & math libraries.
