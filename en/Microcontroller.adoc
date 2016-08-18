@@ -1,0 +1,8 @@
+---
+title: "Microcontroller"
+categories: ["M"]
+---
+
+= Microcontroller
+
+The brains of the Arduino, this is a small computer that you will program to listen for, process, and display information.

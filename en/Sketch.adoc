@@ -1,0 +1,8 @@
+---
+title: "Sketch"
+categories: ["S"]
+---
+
+= Sketch
+
+The term given to programs written in the Arduino IDE.

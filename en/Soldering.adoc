@@ -1,0 +1,8 @@
+---
+title: "Soldering"
+categories: ["S"]
+---
+
+= Soldering
+
+The process of making an electrical connection by melting solder over electrical components or wires that are to be connected. This provides a solid connection between components.

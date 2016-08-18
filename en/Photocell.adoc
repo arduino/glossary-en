@@ -1,0 +1,8 @@
+---
+title: "Photocell"
+categories: ["P"]
+---
+
+= Photocell
+
+A device for converting light to voltage or current.

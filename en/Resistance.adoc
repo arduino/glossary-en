@@ -1,0 +1,8 @@
+---
+title: "Resistance"
+categories: ["R"]
+---
+
+= Resistance
+
+A measure of how efficiently a material will conduct electricity. In particular, resistance can be calculated by Ohm’s Law as: R = V/I.

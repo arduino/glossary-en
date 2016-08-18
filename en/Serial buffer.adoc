@@ -1,0 +1,8 @@
+---
+title: "Serial buffer"
+categories: ["S"]
+---
+
+= Serial buffer
+
+A place in your computer’s and microcontroller’s memory where information received in serial communication is stored until it is read by a program.

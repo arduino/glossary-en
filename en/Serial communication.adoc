@@ -1,0 +1,8 @@
+---
+title: "Serial communication"
+categories: ["S"]
+---
+
+= Serial communication
+
+A type of serial protocol between two devices.

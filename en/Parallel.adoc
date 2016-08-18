@@ -1,0 +1,8 @@
+---
+title: "Parallel"
+categories: ["P"]
+---
+
+= Parallel
+
+Components connected across the same two points in a circuit are in parallel. Parallel components always have the same voltage drop across them.

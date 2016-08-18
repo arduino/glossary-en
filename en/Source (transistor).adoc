@@ -1,0 +1,8 @@
+---
+title: "Source (transistor)"
+categories: ["S"]
+---
+
+= Source (transistor)
+
+The pin of a Field Effect Transistor connected to the lower (n channel) or higher (p channel) voltage of i.e load to be controlled.

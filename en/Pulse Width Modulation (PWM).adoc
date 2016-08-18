@@ -1,0 +1,8 @@
+---
+title: "Pulse Width Modulation (PWM)"
+categories: ["P"]
+---
+
+= Pulse Width Modulation (PWM)
+
+A way to simulate a varying static voltage.

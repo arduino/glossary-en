@@ -1,0 +1,8 @@
+---
+title: "Variable"
+categories: ["V"]
+---
+
+= Variable
+
+A datatype that stores values which are likely to change as your program runs. A variable’s type depends on the type of information you want to store, and the maximum size of the information; for example, a byte can store up to 256 different values, but an int can store up t 65,536 different values. Variables can be local to a particular block of code, or global to an entire program. (see Global variable, Local variable).

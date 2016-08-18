@@ -1,0 +1,8 @@
+---
+title: "Millisecond"
+categories: ["M"]
+---
+
+= Millisecond
+
+1/1,000th of a second.

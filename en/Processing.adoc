@@ -1,0 +1,8 @@
+---
+title: "Processing"
+categories: ["P"]
+---
+
+= Processing
+
+A programming environment based on the Java language. Used as a tool to introduce people to the concepts of programming, and in production environments. The Arduino IDE is written in Processing, and so will look very familiar. In addition, Processing, Arduino and Galileo share a similar philosophy and motive, of creating free open source tools allowing non-technical people to work with hardware and software.

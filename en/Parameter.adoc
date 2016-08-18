@@ -1,0 +1,8 @@
+---
+title: "Parameter"
+categories: ["P"]
+---
+
+= Parameter
+
+When declaring a function, a named parameter serves as the bridge between the local variables in the function, and the arguments it receives when the function is called.

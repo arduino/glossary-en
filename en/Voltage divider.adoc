@@ -1,0 +1,8 @@
+---
+title: "Voltage divider"
+categories: ["V"]
+---
+
+= Voltage divider
+
+A type of circuit that provides an output that is a fraction of its input voltage. You are building a voltage divider when you combine a photoresistor with a fixed resistor to provide an analog input. A potentiometer can also be used as a voltage divider.

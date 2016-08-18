@@ -1,0 +1,8 @@
+---
+title: "Switch"
+categories: ["S"]
+---
+
+= Switch
+
+A component that can open or close an electrical circuit.

@@ -1,0 +1,8 @@
+---
+title: "Period"
+categories: ["P"]
+---
+
+= Period
+
+A specific span of time in which something happens. When the period changes, you’re adjusting the frequency at which something will occur.

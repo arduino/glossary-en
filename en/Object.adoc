@@ -1,0 +1,8 @@
+---
+title: "Object"
+categories: ["O"]
+---
+
+= Object
+
+An instance of a library; e.g. when using the Servo library, were you to create an instance named myServo, myServo would be the object.

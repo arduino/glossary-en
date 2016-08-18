@@ -1,0 +1,8 @@
+---
+title: "Load"
+categories: ["L"]
+---
+
+= Load
+
+An electrical component or portion of a circuit that consumes electric power to turn it into something else.

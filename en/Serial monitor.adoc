@@ -1,0 +1,8 @@
+---
+title: "Serial monitor"
+categories: ["S"]
+---
+
+= Serial monitor
+
+A tool built in to the Arduino IDE allowing sending and receiving serial data to and from a connected board.

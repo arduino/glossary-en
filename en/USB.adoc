@@ -1,0 +1,8 @@
+---
+title: "USB"
+categories: ["U"]
+---
+
+= USB
+
+Stands for Universal Serial Bus. It’s a generic port that is standard on most computers today. With a USB cable, it’s possible to program and power an Arduino over a USB connection.

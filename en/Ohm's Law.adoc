@@ -1,0 +1,8 @@
+---
+title: "Ohm's Law"
+categories: ["O"]
+---
+
+= Ohm's Law
+
+A mathematical equation that demonstrates the relationship between resistance, current and voltage. Usually stated as V (voltage) = I (current) x R (resistance).

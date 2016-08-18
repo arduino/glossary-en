@@ -1,0 +1,8 @@
+---
+title: "Transistor"
+categories: ["T"]
+---
+
+= Transistor
+
+A 3 terminal (usually) electronic device which can act as either an amplifier or a switch. A control voltage or current between two leads controls a (usually) higher voltage or current between a different pair of leads. Common types of transistors include the Bipolar Junction Transistor (BJT) and the Metal Oxide Semiconductor Field Effect Transistor (MOSFET).

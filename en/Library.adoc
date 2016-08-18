@@ -1,0 +1,8 @@
+---
+title: "Library"
+categories: ["L"]
+---
+
+= Library
+
+Its a software extension of the Arduino API that expands the functionality of a program.

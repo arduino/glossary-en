@@ -1,0 +1,8 @@
+---
+title: "Photoresistor"
+categories: ["P"]
+---
+
+= Photoresistor
+
+A resistive device whose resistance varies according to how much light hits it.

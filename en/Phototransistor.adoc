@@ -1,0 +1,8 @@
+---
+title: "Phototransistor"
+categories: ["P"]
+---
+
+= Phototransistor
+
+A transistor whose conduction state is controlled by light.

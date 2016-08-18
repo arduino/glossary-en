@@ -1,0 +1,8 @@
+---
+title: "Square wave"
+categories: ["S"]
+---
+
+= Square wave
+
+A type of waveform that is identified by having only two states, on and off. When used to generate tones, they can sound “buzzy”.

@@ -1,0 +1,8 @@
+---
+title: "Sensor"
+categories: ["S"]
+---
+
+= Sensor
+
+A component that measures one form of energy (like light or heat or mechanical energy) and converts it to voltage or current.

@@ -1,0 +1,8 @@
+---
+title: "Ohm"
+categories: ["O"]
+---
+
+= Ohm
+
+Unit of measurement of resistance. Represented by the omega symbol.

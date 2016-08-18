@@ -1,0 +1,8 @@
+---
+title: "Transducer"
+categories: ["T"]
+---
+
+= Transducer
+
+Something that changes one form of energy into another.
