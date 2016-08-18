@@ -5,5 +5,5 @@ categories: ["I"]
 
 = I2C
 
-I2C - Inter Integrated Circuit - is a multi-master, multi-slave, single-ended, two wires serial synchronous bus, invented by Philips Semiconductor. It is typically used for attaching lower-speed peripheral ICs to processors and microcontrollers in short-distance, intra-board communication. Microcontrollers offer native I2C interface to simplify communication with displays, sensors, serial EEPROM and other devices with just two wires. 
+I2C - Inter Integrated Circuit - is a multi-master, multi-slave, single-ended, two wires serial synchronous bus, invented by Philips Semiconductor. <!--more-->It is typically used for attaching lower-speed peripheral ICs to processors and microcontrollers in short-distance, intra-board communication. Microcontrollers offer native I2C interface to simplify communication with displays, sensors, serial EEPROM and other devices with just two wires. 
  
