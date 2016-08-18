@@ -5,4 +5,4 @@ categories: ["S"]
 
 = SPI
 
-Serial Peripheral Interface is a synchronous serial communication technology that uses four wires and a master/slave architecture. A master device can communicate in full duplex with several slaves using a specific Slave Select signal for each slave. The communication is suitable for short distance, like the inside of the cabimet of an electronic device.
+Serial Peripheral Interface is a synchronous serial communication technology that uses four wires and a master/slave architecture. <!--more-->A master device can communicate in full duplex with several slaves using a specific Slave Select signal for each slave. The communication is suitable for short distance, like the inside of the cabimet of an electronic device.
