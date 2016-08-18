@@ -5,4 +5,4 @@ categories: ["A"]
 
 = Alternating current
 
-A type of current where electricity changes its direction periodically. This is the sort of electricity that comes out of a wall socket.
+A type of current where electricity changes its direction periodically. <!--more-->This is the sort of electricity that comes out of a wall socket.
