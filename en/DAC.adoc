@@ -5,5 +5,5 @@ categories: ["D"]
 
 = DAC
 
-A Digital to Analog Converter is a circuit that converts a digital value into an analog voltage. It is used in fields like audio and music to create sounds from digital values. The bit resolution of a DAC expresses its capacity of approximating values with precision. Higer resolution means better approximation.
+A Digital to Analog Converter is a circuit that converts a digital value into an analog voltage. <!--more-->It is used in fields like audio and music to create sounds from digital values. The bit resolution of a DAC expresses its capacity of approximating values with precision. Higer resolution means better approximation.
  
