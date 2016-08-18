@@ -5,5 +5,5 @@ categories: ["A"]
 
 = Access Point
 
-A WiFi device that connects to the physical network and allows to access the LAN through the wireless connection. Usually it takes care of the authentication and the assignment of an IP address.
+A WiFi device that connects to the physical network and allows to access the LAN through the wireless connection. <!--more-->Usually it takes care of the authentication and the assignment of an IP address.
  
