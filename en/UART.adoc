@@ -1,0 +1,8 @@
+---
+title: "UART"
+categories: ["U"]
+---
+
+= UART
+
+An Universal Asynchronous Receiver Transmitter is an hardware device or module inside a microcontroller that implements serial communication with speeds and data format fully configurable.
