@@ -5,4 +5,4 @@ categories: ["S"]
 
 = SSID
 
-The Service Set IDentifier is the name with which a wireless network identifies itself. Several Access Point may share the same SSID if they are connected to the same LAN. An Access Point may broadcast more than one SSID or none at all.
+The Service Set IDentifier is the name with which a wireless network identifies itself. <!--more-->Several Access Point may share the same SSID if they are connected to the same LAN. An Access Point may broadcast more than one SSID or none at all.
