@@ -5,7 +5,7 @@ categories: ["E"]
 
 = EDBG
 
-The Atmel Embedded Debugger (EDBG) it's a chip that implements a composite USB device. consisting of three interfaces:
+The Atmel Embedded Debugger (EDBG) it's a chip that implements a composite USB device. Consisting of three interfaces:
 <!--more-->
 
 * Programming & debugging interface (HID)
