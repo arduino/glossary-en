@@ -5,4 +5,7 @@ categories: ["T"]
 
 = Transducer
 
-Something that changes one form of energy into another.
+Something that changes one form of energy into another, Sensors or actuators can be called tranducers.
+<--!more-->
+Transducers are device that can perform an input (Sensors) or an output (Actuators) function. For example a force sensor converts the physical change into an electrical signal, an actuator transforms an electrical signal into a physical change like movement or sound.
+Another example of transducers are the microphone that converts sound waves into electrical signal, or a loudspeaker that converts this electrical signal back into sound waves.
