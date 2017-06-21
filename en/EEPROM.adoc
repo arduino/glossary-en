@@ -5,5 +5,5 @@ categories: ["E"]
 
 = EEPROM
 
-An Electrically Erasable Programmable Reading Only Memory is a type of memory that retains its data without power, <!--more-->like a Read Only Memory, and that can be erased and written. The amount of memory of an EEPROM is usually of thousands of bytes and it is used to retain some data on microcontrollers between power cycles.
+An Electrically Erasable Programmable Reading Only Memory is a type of memory that retains its data without power, like a Read Only Memory, and that can be erased and written. The amount of memory of an EEPROM is usually of thousands of bytes and it is used to retain some data on microcontrollers between power cycles.
  
