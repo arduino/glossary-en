@@ -5,5 +5,5 @@ categories: ["I"]
 
 = ICSP
 
-In-Circuit Serial Programming is the ability of a microcontroller to be programmed directly on the board on which it is monuted. <!--more-->It is also a set of signals and pins used for the programming.
+In-Circuit Serial Programming is the ability of a microcontroller to be programmed directly on the board on which it is monuted. It is also a set of signals and pins used for the programming.
  
