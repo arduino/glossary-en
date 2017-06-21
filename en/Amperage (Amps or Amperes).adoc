@@ -1,5 +1,5 @@
 ---
-title: "Amperage (Amps or Amperes) "
+title: "Amperage (Amps or Amperes)"
 categories: ["A"]
 ---
 
