@@ -5,5 +5,5 @@ categories: ["B"]
 
 = Bootloader
 
-The Bootloader is a special piece of code that the microcontroller executes at power-up <!--more-->or under specific conditions and takes care of the loading of the code into Flash memory. If the Bootloader doesn't receive an upload request by the host, it passes the execution to the user sketch.
+The Bootloader is a special piece of code that the microcontroller executes at power-up or under specific conditions and takes care of the loading of the code into Flash memory. If the Bootloader doesn't receive an upload request by the host, it passes the execution to the user sketch.
  
