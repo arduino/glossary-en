@@ -5,4 +5,4 @@ categories: ["P"]
 
 = Pseudocode
 
-A bridge between writing in a computer programming language and using natural speech. <!--more-->When creating pseudocode, it’s helpful to write in short declarative statements.
+A bridge between writing in a computer programming language and using natural speech. When creating pseudocode, it’s helpful to write in short declarative statements.
