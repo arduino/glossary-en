@@ -5,5 +5,5 @@ categories: ["A"]
 
 = AREF
 
-Analog REFerence : the reference max voltage for the Analog to Digital converter. <!--more-->Changing the AREF allows to use the resolution of the ADC at its best, especially for low voltages. Usually AREF can't be greater than the supply voltage of the ADC circuit.
+Analog REFerence : the reference max voltage for the Analog to Digital converter. Changing the AREF allows to use the resolution of the ADC at its best, especially for low voltages. Usually AREF can't be greater than the supply voltage of the ADC circuit.
  
