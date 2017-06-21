@@ -5,4 +5,4 @@ categories: ["B"]
 
 = Back-voltage
 
-Voltage that pushes back against the current that created it. <!--more-->It can be created by motors spinning down. This can damage circuits, which is why diodes are often used in conjunction with motors (Free-wheel diode).
+Voltage that pushes back against the current that created it. It can be created by motors spinning down. This can damage circuits, which is why diodes are often used in conjunction with motors (Free-wheel diode).
