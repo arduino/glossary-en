@@ -5,8 +5,7 @@ categories: ["I"]
 
 = I2C
 
-I2C - Inter Integrated Circuit - is two wires serial synchronous bus that provides communication between two Integrated Circuits., introduced in 1982 by Philips Semiconductor. <!--more-->
-The I2C can run at different speed: 100 Kbps, 400Kbps and 3.4 Mbps.
+I2C - Inter Integrated Circuit - is two wires serial synchronous bus that provides communication between two Integrated Circuits., introduced in 1982 by Philips Semiconductor. The I2C can run at different speed: 100 Kbps, 400Kbps and 3.4 Mbps.
 It's used to connect also different boards with the simplicity of wiring only two cables, called SDA (Data line), SCL (Clock line).
 Can support up to 1008 slave devices.
 
