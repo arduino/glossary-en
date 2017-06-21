@@ -5,4 +5,4 @@ categories: ["W"]
 
 = WPA
 
-The WiFi Protected Access is a cyphering protocol to keep the wireless transfer of data safe from easy eavesdropping. <!--more-->WPA and WPA2 are also certification programs that grant the compliance of the devices with the standards.
+The WiFi Protected Access is a cyphering protocol to keep the wireless transfer of data safe from easy eavesdropping. WPA and WPA2 are also certification programs that grant the compliance of the devices with the standards.
