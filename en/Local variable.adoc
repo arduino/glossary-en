@@ -5,4 +5,4 @@ categories: ["L"]
 
 = Local variable
 
-A type of variable that lives only in the scope in which it is declared and then forgotten. <!--more-->A variable declared inside the setup() of a program would be local: after the setup() finished running, the Galileo would forget that the variable ever existed.
+A type of variable that lives only in the scope in which it is declared and then forgotten. A variable declared inside the setup() of a program would be local: after the setup() finished running, the Galileo would forget that the variable ever existed.
