@@ -5,4 +5,4 @@ categories: ["S"]
 
 = Series
 
-Components are in series when current flows from the first into the next. <!--more-->The current flowing through both is the same, and the voltage drops across each component.
+Components are in series when current flows from the first into the next. The current flowing through both is the same, and the voltage drops across each component.
