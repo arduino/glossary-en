@@ -5,4 +5,4 @@ categories: ["O"]
 
 = Optocoupler
 
-Also known as an opto-isolator, photo-coupler, photo-isolator, photo-switch, and opto-switch. <!--more-->An LED is combined in a sealed case with a phototransistor. The LED is positioned to illuminate the phototransistor, so that when the LED is turned on, the phototransistor will conduct. Used to provide a high degree of isolation as there is no electrical connection common to the input and the output.
+Also known as an opto-isolator, photo-coupler, photo-isolator, photo-switch, and opto-switch. An LED is combined in a sealed case with a phototransistor. The LED is positioned to illuminate the phototransistor, so that when the LED is turned on, the phototransistor will conduct. Used to provide a high degree of isolation as there is no electrical connection common to the input and the output.
