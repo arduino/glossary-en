@@ -5,4 +5,4 @@ categories: ["C"]
 
 = Circuit
 
-A circular path from a power supply, through a load, and then back again to the other end of the power supply. <!--more-->Current flows in a circuit only if it is closed, that is, if the outgoing and return path are both uninterrupted (or closed). If either path is interrupted (or open) then current will not flow through the circuit. 
+A circular path from a power supply, through a load, and then back again to the other end of the power supply. Current flows in a circuit only if it is closed, that is, if the outgoing and return path are both uninterrupted (or closed). If either path is interrupted (or open) then current will not flow through the circuit. 
