@@ -5,4 +5,4 @@ categories: ["D"]
 
 = Duty cycle
 
-A ratio indicating the amount of time over a certain period that a component is turned on. <!--more-->When using a PWM value of 127 (out of a total of 256), you have a 50% duty cycle.
+A ratio indicating the amount of time over a certain period that a component is turned on. When using a PWM value of 127 (out of a total of 256), you have a 50% duty cycle.
