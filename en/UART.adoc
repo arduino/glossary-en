@@ -5,4 +5,4 @@ categories: ["U"]
 
 = UART
 
-An Universal Asynchronous Receiver Transmitter is an hardware device or module inside a microcontroller <!--more-->that implements serial communication with speeds and data format fully configurable.
+An Universal Asynchronous Receiver Transmitter is an hardware device or module inside a microcontroller that implements serial communication with speeds and data format fully configurable.
