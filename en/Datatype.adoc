@@ -5,4 +5,4 @@ categories: ["D"]
 
 = Datatype
 
-A classification system that determines what values a particular constant, variable, or array will hold. <!--more-->Int, float, long and boolean are all types that can be used in the Arduino Software (IDE).
+A classification system that determines what values a particular constant, variable, or array will hold. Int, float, long and boolean are all types that can be used in the Arduino Software (IDE).
