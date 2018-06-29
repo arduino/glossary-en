@@ -5,5 +5,5 @@ categories: ["I"]
 
 = IDE
 
-Stands for “Integrated Development Environment”. The Arduino IDE for example, is the place where you write software to upload to an Arduino bard.
+Stands for “Integrated Development Environment”. The Arduino IDE for example, is the place where you write software to upload to an Arduino board.
 
