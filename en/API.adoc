@@ -1,0 +1,9 @@
+---
+title: "API"
+categories: ["A"]
+---
+
+= API
+
+Application Programming Interface: the interface used to interact programmatically with a piece of software. The API of an Arduino library is the public functions exposed to the user. The library may contain many other functions that are only used internally, but it is only necessary to understand the API in order to use the library.
+ 
